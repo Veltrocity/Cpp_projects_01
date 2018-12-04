@@ -1,0 +1,15 @@
+﻿Build started 7/19/2015 12:54:18 AM.
+     1>Project "c:\Users\Austin\documents\visual studio 2013\Projects\CallByPractice\CallByPractice\CallByPractice.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\CallByPractice.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt CallByPractice.cpp
+         CallByPractice.cpp
+     1>c:\users\austin\documents\visual studio 2013\projects\callbypractice\callbypractice\callbypractice.cpp(14): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\austin\documents\visual studio 2013\Projects\CallByPractice\Debug\CallByPractice.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"c:\users\austin\documents\visual studio 2013\Projects\CallByPractice\Debug\CallByPractice.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\austin\documents\visual studio 2013\Projects\CallByPractice\Debug\CallByPractice.lib" /MACHINE:X86 Debug\CallByPractice.obj
+         Debug\stdafx.obj
+         CallByPractice.vcxproj -> c:\users\austin\documents\visual studio 2013\Projects\CallByPractice\Debug\CallByPractice.exe
+     1>Done Building Project "c:\Users\Austin\documents\visual studio 2013\Projects\CallByPractice\CallByPractice\CallByPractice.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.39

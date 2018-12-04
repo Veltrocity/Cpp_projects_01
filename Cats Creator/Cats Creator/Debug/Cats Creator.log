@@ -1,0 +1,13 @@
+﻿Build started 10/3/2015 4:32:14 AM.
+     1>Project "c:\Users\Austin\documents\visual studio 2013\Projects\Cats Creator\Cats Creator\Cats Creator.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\Cats Creator.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "Cats Creator.cpp"
+         Cats Creator.cpp
+     1>c:\users\austin\documents\visual studio 2013\projects\cats creator\cats creator\cats creator.cpp(45): error C3867: 'cat::Set_Name': function call missing argument list; use '&cat::Set_Name' to create a pointer to member
+     1>c:\users\austin\documents\visual studio 2013\projects\cats creator\cats creator\cats creator.cpp(46): error C3867: 'cat::set_Color': function call missing argument list; use '&cat::set_Color' to create a pointer to member
+     1>c:\users\austin\documents\visual studio 2013\projects\cats creator\cats creator\cats creator.cpp(47): error C3867: 'cat::Cat_stats': function call missing argument list; use '&cat::Cat_stats' to create a pointer to member
+     1>Done Building Project "c:\Users\Austin\documents\visual studio 2013\Projects\Cats Creator\Cats Creator\Cats Creator.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.48
